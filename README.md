@@ -19,14 +19,20 @@ lifecycle management as needed.
 
 <ins>Known bugs:</ins>
 1. Zero will not appear before decimal point
-2. Spamming multiple operators in a row will result in error
-3. Ignore operators that are entered before numbers
-4. Display error message if dividing by zero
+2. ~~Spamming multiple operators in a row will result in error~~
+3. ~~Ignore operators that are entered before numbers~~
+4. ~~Display error message if dividing by zero~~
 
 <ins>To Do: </ins>
 1. Fix bugs
 2. Attempt project again with React and Redux,  
  and again with React Hooks, then compare efficency
+
+ # Day 2:
+
+ Fixed bugs #2-4
+ Still need to fix bug #1
+ New bug: Limit display character limit to prevent overflow
 
 
 
