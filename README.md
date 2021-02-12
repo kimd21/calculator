@@ -36,15 +36,15 @@ lifecycle management as needed.
 
  # Day 3:
 
- Fixed remaining bugs:
- Added leading 0 in front of decimal point if no other numbers
- Removed trailing 0's
- Included negative sign, decimal, and e sign into character count
- Set maximum character limit to 9
- Added comments
- Applied DRY principle
- Updated to allow for floating point calculations
- 
+ Fixed remaining bugs:  
+ Added leading 0 in front of decimal point if no other numbers  
+ Removed trailing 0's  
+ Included negative sign, decimal, and e sign into character count  
+ Set maximum character limit to 9  
+ Added comments  
+ Applied DRY principle  
+ Updated to allow for floating point calculations  
+
 
 
 
